@@ -1,0 +1,1 @@
+adb shell input tap 540 1484
